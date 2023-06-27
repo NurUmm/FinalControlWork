@@ -4,7 +4,7 @@ ___
 
 Блок-схема выполнения программы
 
-![Блок схема](/FinalControlWork/diagram.png)
+![Блок схема](/FinalControlWork/images/diagram.png)
 
 ### Шаг первый:
 
